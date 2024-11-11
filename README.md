@@ -55,7 +55,7 @@ Imagine you are teaching a brand new programmer a brief lesson about the `class`
 * An explanation of the syntax using the terms: **attribute**, **selector** 
 
 ### Response 4
-In HTML, `class` and `id` attributes hep us identify elements on a webpage, but they serve different purposes. Think of an **ID** as a unique name for a single person, while a **class* is like a label for a group of people who share something in common. 
+In HTML, `class` and `id` attributes help us identify elements on a webpage, but they serve different purposes. Think of an **ID** as a unique name for a single person, while a **class* is like a label for a group of people who share something in common. 
 
 - **ID**: Just like every person has a unique ID number that only they possess, each element with an `id` should have a unique identifier. This means you can only use one element with a specific ID on a page, and it’s used to target that specific element, much like calling out a specific person by their unique name.
 
